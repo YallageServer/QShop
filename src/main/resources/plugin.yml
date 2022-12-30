@@ -1,0 +1,10 @@
+name: QShop
+version: '${project.version}'
+main: yallage.qshop.QShop
+api-version: 1.16
+commands:
+  qs:
+    reload:
+        description: Reload the plugin
+        permission: qshop.reload
+        usage: /qs reload

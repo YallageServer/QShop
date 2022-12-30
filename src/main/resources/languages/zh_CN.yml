@@ -1,0 +1,23 @@
+PERMISSION_DENIED: "§c你没有权限这么做"
+COMMAND_NOT_FOUND: "§c未知命令"
+RELOAD_SUCCESS: "§a[QShop] 重载成功"
+ADMIN_TITLE: "§eQShop §7- §c管理"
+ADMIN_CREATE_SHOP_ITEM_NAME: "创建商店"
+ADMIN_CREATE_SHOP_ITEM_LORE:
+  - "§7点击创建商店"
+ADMIN_ABOUT_PLUGIN_ITEM_NAME: "关于插件"
+ADMIN_ABOUT_PLUGIN_ITEM_LORE:
+  - "§7作者: §e%author%"
+  - "§7版本: §e%version%"
+SHOP_NAME_PROMPT: "§a[QShop] 请输入商店名称，输入\"cancel\"将取消创建。"
+SHOP_NAME_PROMPT_CANCEL: "§c[QShop] 已取消创建商店。"
+SHOP_NAME_PROMPT_INVALID: "§c[QShop] 商店名称不合法"
+SHOP_NAME_PROMPT_SUCCESS: "§a[QShop] 商店(%shop_name%)创建成功"
+SHOP_NAME_PROMPT_EXIST: "§c[QShop] 商店(%shop_name%)已存在"
+SHOP_LIST_TITLE: "§eQShop §7- §c商店列表"
+SHOP_LIST_ITEM_LORE:
+  - "§a左键管理商店"
+  - "§c右键删除商店"
+ADMIN_SHOP_LIST_ITEM_NAME: "商店列表"
+ADMIN_SHOP_LIST_ITEM_LORE:
+  - "§7点击管理商店"

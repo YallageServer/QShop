@@ -1,0 +1,27 @@
+{
+  "shopName": "测试商店",
+  "cargos": [
+    {
+      "id": 1,
+      "displayName": "DEFAULT",
+      "unlimited": false,
+      "Material": "DIRT",
+      "init_stack": "1000",
+      "min_stack": "0",
+      "max_stack": "10000",
+      "min_price": "0.5",
+      "max_price": "1"
+    },
+    {
+      "id": 2,
+      "displayName": "DEFAULT",
+      "unlimited": false,
+      "Material": "DIRT",
+      "init_stack": "1000",
+      "min_stack": "0",
+      "max_stack": "10000",
+      "min_price": "0.5",
+      "max_price": "1"
+    }
+  ]
+}
